@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/sasa0330/practice-typescript/issues"
   },
-  "homepage": "https://github.com/sasa0330/practice-typescript#readme"
+  "homepage": "https://github.com/sasa0330/practice-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.17"
+  }
 }
